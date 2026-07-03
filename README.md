@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0189-rotate-array) |
+| [1051-height-checker](https://github.com/ayushkr1012/My-DSA-journey/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushkr1012/My-DSA-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ayushkr1012/My-DSA-journey/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/ayushkr1012/My-DSA-journey/tree/master/1929-concatenation-of-array) |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/ayushkr1012/My-DSA-journey/tree/master/1929-concatenation-of-array) |
+## Sorting
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ayushkr1012/My-DSA-journey/tree/master/1051-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ayushkr1012/My-DSA-journey/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
