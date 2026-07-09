@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0283-move-zeroes) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0283-move-zeroes) |
 ## Prefix Sum
@@ -61,5 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
