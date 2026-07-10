@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0053-maximum-subarray) |
+| [0135-candy](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0485-max-consecutive-ones) |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
