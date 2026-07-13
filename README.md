@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0189-rotate-array) |
 ## Simulation
 |  |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0344-reverse-string) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
