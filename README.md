@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0054-spiral-matrix) |
 | [0135-candy](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0283-move-zeroes) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0054-spiral-matrix) |
 | [1920-build-array-from-permutation](https://github.com/ayushkr1012/My-DSA-journey/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ayushkr1012/My-DSA-journey/tree/master/1929-concatenation-of-array) |
 ## Sorting
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/ayushkr1012/My-DSA-journey/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
 |  |
