@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0054-spiral-matrix) |
 | [0135-candy](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0485-max-consecutive-ones) |
 | [1051-height-checker](https://github.com/ayushkr1012/My-DSA-journey/tree/master/1051-height-checker) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushkr1012/My-DSA-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ayushkr1012/My-DSA-journey/tree/master/1732-find-the-highest-altitude) |
 ## Math
