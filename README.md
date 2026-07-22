@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0073-set-matrix-zeroes) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0771-jewels-and-stones) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0771-jewels-and-stones) |
 | [1768-merge-strings-alternately](https://github.com/ayushkr1012/My-DSA-journey/tree/master/1768-merge-strings-alternately) |
 ## Recursion
 |  |
