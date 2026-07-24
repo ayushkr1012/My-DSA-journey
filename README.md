@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0283-move-zeroes) |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
