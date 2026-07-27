@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0053-maximum-subarray) |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0231-power-of-two) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
