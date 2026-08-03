@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0338-counting-bits) |
+| [0693-binary-number-with-alternating-bits](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0693-binary-number-with-alternating-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ayushkr1012/My-DSA-journey/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/ayushkr1012/My-DSA-journey/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Binary Search
