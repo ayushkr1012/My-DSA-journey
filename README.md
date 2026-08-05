@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0342-power-of-four) |
+| [1922-count-good-numbers](https://github.com/ayushkr1012/My-DSA-journey/tree/master/1922-count-good-numbers) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/ayushkr1012/My-DSA-journey/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Simulation
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0342-power-of-four) |
+| [1922-count-good-numbers](https://github.com/ayushkr1012/My-DSA-journey/tree/master/1922-count-good-numbers) |
 ## Queue
 |  |
 | ------- |
