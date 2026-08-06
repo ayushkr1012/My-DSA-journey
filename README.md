@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0073-set-matrix-zeroes) |
 | [0383-ransom-note](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0383-ransom-note) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0231-power-of-two) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ayushkr1012/My-DSA-journey/tree/master/0344-reverse-string) |
